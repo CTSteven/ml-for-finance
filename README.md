@@ -1,2 +1,2 @@
 # ml-for-finance
-exercise in book : machine learning for finance
+exercise in this book : machine learning for finance
